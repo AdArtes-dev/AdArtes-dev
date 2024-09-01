@@ -1,1 +1,1 @@
-<iframe frameborder="0" src="https://itch.io/embed/2771072?linkback=true&amp;border_width=2&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=f44248&amp;border_color=55047d" width="554" height="169"><a href="https://adartes-dev.itch.io/age-of-magic-battles-path-of-cards">Age of Magic Battles: Path of Cards by AdArtes-dev</a></iframe>
+
